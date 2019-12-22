@@ -4,6 +4,6 @@
  </head>
  <body>
   <br> Hello, this is my first app </br>
- # <br/> Server IP: <?php echo $_SERVER['SERVER_ADDR']; ?>
+ # <br/> Server IP: <?php?>
  </body>
 </html>
