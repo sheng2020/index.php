@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <title>Hello</title>
 </head>
-<body>
-    <p>Hello {{.}}!</p>
-</body>
+ <body>
+  <br>Hello, this is my first app </br>
+  <br/> Server IP: <?php echo $_SERVER['SERVER_ADDR']; ?>
+ </body>
 </html>
